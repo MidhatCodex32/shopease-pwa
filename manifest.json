@@ -1,0 +1,49 @@
+{
+  "name": "ShopEase",
+  "short_name": "ShopEase",
+  "description": "Your favorite online shopping app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131321",
+  "theme_color": "#46F0D2",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon-512x512.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+
+    "src": "icons/android/ android-launchericon-48-48.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+
+    },
+
+        {
+
+    "src": "icons/windows11/ LargeTile.scale-100.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+
+    }
+
+  ]
+}
